@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="twitter_consumer_key">IU38xvXkXiAKkQEXxQjKDQ</string>
-    <string name="twitter_consumer_secret">rzVzCNr9C0EB4NdRvZGZsn5LSdX49qZdytNrdMOHQ</string>
-    <string name="twitter_access_token_key">892607503-TxGMe4KbReO6RaK6CANg4tspkhetBa7B0qmSAKOY</string>
-    <string name="twitter_access_token_secret">pedHQwah50gBq2cYCOqasKQs3juJbsUs981AuYYUzrm4v</string>
+    <string name="twitter_consumer_key">SsVRboZZ7ZyCmLjvPqEkA</string>
+    <string name="twitter_consumer_secret">xB4o3wWtGNXsk3gRSHR8MFBoN2fIJV2I7ooXj48Afw</string>
+    <string name="twitter_access_token_key">2200338014-Z6lxprC0BBktbVftXOX1HVlURu22G5Dzoyaz3NP</string>
+    <string name="twitter_access_token_secret">vrgYtsi3aO3pMz3RW5bplpCb397VBPKzTqR6oV10pOOKl</string>
 
 </resources>

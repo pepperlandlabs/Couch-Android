@@ -32,7 +32,7 @@ public class MainActivity extends ActionBarActivity {
 		String youtubeUrl = intent.getStringExtra(Intent.EXTRA_TEXT);
 
 		if(youtubeUrl != null)
-			TwitterUtils.postTweet(this, "@AddToCouch #nimblefinch " + youtubeUrl);
+			TwitterUtils.postTweet(this, "@AddToCouch #leafyjackal " + youtubeUrl);
     }
 
 
