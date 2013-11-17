@@ -8,7 +8,7 @@
   <component name="ChangeListManager">
     <list default="true" id="22ec9026-db5c-4ce4-a066-43ddfac12887" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Couch/src/main/java/com/addtocouch/android/test/util/TwitterUtils.java" afterPath="$PROJECT_DIR$/Couch/src/main/java/com/addtocouch/android/test/util/TwitterUtils.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Couch/src/main/res/values/development-configuration.xml" afterPath="$PROJECT_DIR$/Couch/src/main/res/values/development-configuration.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Couch-Android.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -81,10 +81,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="development-configuration.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="development-configuration.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Couch/src/main/res/values/development-configuration.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="61" selection-start="113" selection-end="113" vertical-scroll-proportion="0.091093116" vertical-offset="0" max-vertical-offset="494">
+            <state line="5" column="90" selection-start="308" selection-end="308" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
               <folding />
             </state>
           </provider>
@@ -108,17 +108,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TwitterUtils.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="TwitterUtils.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Couch/src/main/java/com/addtocouch/android/test/util/TwitterUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="51" selection-start="845" selection-end="845" vertical-scroll-proportion="0.0" vertical-offset="89" max-vertical-offset="855">
+            <state line="33" column="37" selection-start="1094" selection-end="1094" vertical-scroll-proportion="0.82186234" vertical-offset="89" max-vertical-offset="840">
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#596#644#0" expanded="true" />
                 <element signature="e#674#725#0" expanded="true" />
                 <element signature="e#752#804#0" expanded="true" />
-                <element signature="e#1018#1407#0" expanded="true" />
-                <element signature="e#1402#1403#0" expanded="true" />
+                <element signature="e#837#892#0" expanded="true" />
+                <element signature="e#1018#1366#0" expanded="true" />
+                <element signature="e#1361#1362#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -808,8 +809,8 @@
         <option value="$PROJECT_DIR$/Couch/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/Couch/src/main/java/com/addtocouch/android/test/MainActivity.java" />
         <option value="$PROJECT_DIR$/Couch/twitter4j.properties" />
-        <option value="$PROJECT_DIR$/Couch/src/main/java/com/addtocouch/android/test/util/TwitterUtils.java" />
         <option value="$PROJECT_DIR$/Couch/src/main/res/values/development-configuration.xml" />
+        <option value="$PROJECT_DIR$/Couch/src/main/java/com/addtocouch/android/test/util/TwitterUtils.java" />
       </list>
     </option>
   </component>
@@ -1103,7 +1104,7 @@
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991013" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32991013" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32991013" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1185,24 +1186,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Couch/src/main/res/values/development-configuration.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="90" selection-start="308" selection-end="308" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Couch/src/main/java/com/addtocouch/android/test/util/TwitterUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="51" selection-start="845" selection-end="845" vertical-scroll-proportion="0.0" vertical-offset="89" max-vertical-offset="855">
+        <state line="33" column="37" selection-start="1094" selection-end="1094" vertical-scroll-proportion="0.82186234" vertical-offset="89" max-vertical-offset="840">
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#596#644#0" expanded="true" />
             <element signature="e#674#725#0" expanded="true" />
             <element signature="e#752#804#0" expanded="true" />
-            <element signature="e#1018#1407#0" expanded="true" />
-            <element signature="e#1402#1403#0" expanded="true" />
+            <element signature="e#837#892#0" expanded="true" />
+            <element signature="e#1018#1366#0" expanded="true" />
+            <element signature="e#1361#1362#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Couch/src/main/res/values/development-configuration.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="61" selection-start="113" selection-end="113" vertical-scroll-proportion="0.091093116" vertical-offset="0" max-vertical-offset="494">
-          <folding />
         </state>
       </provider>
     </entry>
