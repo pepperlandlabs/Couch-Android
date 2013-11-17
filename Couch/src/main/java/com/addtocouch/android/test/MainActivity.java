@@ -1,5 +1,6 @@
 package com.addtocouch.android.test;
 
+import android.content.Intent;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.ActionBar;
 import android.support.v4.app.Fragment;
@@ -10,6 +11,9 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 import android.os.Build;
+import android.widget.Toast;
+
+import com.addtocouch.android.test.util.TwitterUtils;
 
 public class MainActivity extends ActionBarActivity {
 
@@ -23,6 +27,12 @@ public class MainActivity extends ActionBarActivity {
                     .add(R.id.container, new PlaceholderFragment())
                     .commit();
         }
+
+		Intent intent = getIntent();
+		String youtubeUrl = intent.getStringExtra(Intent.EXTRA_TEXT);
+
+		if(youtubeUrl != null)
+			TwitterUtils.postTweet(this, "@AddToCouch #nimblefinch " + youtubeUrl);
     }
 
 
