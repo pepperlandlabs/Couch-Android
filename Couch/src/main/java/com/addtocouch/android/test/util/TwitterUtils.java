@@ -33,6 +33,7 @@ public class TwitterUtils {
 			public void run() {
 				Status status = null;
 				try {
+					twitter.showUser("@Couch_Android");
 					status = twitter.updateStatus(tweet);
 					String xx = status.getText();
 					int x = 0;
